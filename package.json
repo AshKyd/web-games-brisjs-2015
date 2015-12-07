@@ -15,5 +15,7 @@
   "bugs": {
     "url": "https://github.com/AshKyd/web-games-campjs-2015/issues"
   },
-  "dependencies": {}
+  "dependencies": {
+    "fps": "0.0.3"
+  }
 }
